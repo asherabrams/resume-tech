@@ -10,7 +10,7 @@ TECHNICAL CERTIFICATIONS AND SKILLS
 •	CompTIA A+ certified
 •	Active Directory
 •	Microsoft Exchange
-•	ITSM software:  ServiceNow, HP Service Manager, Cherwell
+•	ITSM software:  ServiceNow, HP Service Manager, Cherwell, Track-It
 •	Hardware service and replacement
 
 EDUCATION
