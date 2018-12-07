@@ -99,5 +99,3 @@ Netview
 3/2009 - 5/2009
 San Francisco, CA
 Client:  Marriott.  Upgraded computer system. Tasks included coordinating with technical analyst and hotel staff, logging in to server, making system backup tape, configuring system for migration install, and verifying proper system operation with hotel staff.
-
-
