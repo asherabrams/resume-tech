@@ -22,11 +22,11 @@ EDUCATION
 
 PROFESSIONAL EXPERIENCE
 
-Help Desk Technician
+Help Desk Technician | Desktop Support
 EdgeLink
 7/2018 - 1/2019
 Beaverton, Oregon
-Client:  Genesis Financial Solutions.  Responsible for supporting the PC, printer, and laptop corporate infrastructure.  Answer phones and monitor the Help Desk email for incoming requests. Respond to end user requests for assistance.  Triage tickets and assign to appropriate team.  Maintain corporate PC’s, laptops, and printers.  Troubleshoot and resolve hardware and software issues, including password resets and user account creation.  Create, manage, delete user accounts in Active Directory and Exchange.  Set up and manage phones in Cisco Unified CM Administration.  Image laptop and desktop computers with SCCM and Configuration Manager Console.  Troubleshoot remote computers using Remote Desktop.  Work in virtual environment using VMware Horizon Client.  Workstation setup and configuration in Windows 7 and 10.  Data entry in TSYS.  Provisioning and deployment of desktop systems, and inventory management.  Trained and supervised junior technician in creating user accounts.
+Client:  Genesis Financial Solutions.  Create, manage, delete user accounts in Active Directory and Exchange.  Support PC, printer, and laptop corporate infrastructure.  Answer phones and monitor the Help Desk email for incoming requests. Triage tickets and assign to appropriate team.  Troubleshoot and resolve hardware and software issues, including password resets and user account creation.  Set up and manage phones in Cisco Unified CM Administration.  Image laptop and desktop computers with SCCM and Configuration Manager Console.  Troubleshoot remote computers using Remote Desktop and Dameware.  Work in virtual environment using VMware Horizon Client.  Workstation setup and configuration in Windows 7 and 10.  Data entry in TSYS.  Provisioning and deployment of desktop systems, and inventory management.  Trained and supervised junior technician in creating user accounts.
 
 Service Desk
 Tek Systems
