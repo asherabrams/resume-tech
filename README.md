@@ -11,6 +11,7 @@ TECHNICAL CERTIFICATIONS AND SKILLS
 •	Active Directory
 •	Microsoft Exchange
 •	ITSM software:  ServiceNow, HP Service Manager, Cherwell, Track-It
+•	IDEs:  Visual Studio, Android Studio
 •	Hardware service and replacement
 
 EDUCATION
@@ -22,11 +23,17 @@ EDUCATION
 
 PROFESSIONAL EXPERIENCE
 
-Help Desk Technician | Desktop Support
+Help Desk
+Qorvo
+2/2019 – present
+Hillsboro, Oregon
+Provided support by responding to telephone calls, emails, web tickets, online chat requests, and walk-ups.  Troubleshooting and resolution of user reported hardware/software problems.  Identified and documented persistent problems.  Documented issue resolutions for future reference.  ServiceNow ticketing; remote desktop via SCCM, Skype, MS Remote Desktop.  Troubleshooting VPN connectivity in GlobalProtect.  Support for Office 365 desktop apps and and OWA.  Support for mobile devices (Android, iOS) and MaaS 360.  
+
+Help Desk Technician
 EdgeLink
-7/2018 - 1/2019
+7/2018 – 2/2019
 Beaverton, Oregon
-Client:  Genesis Financial Solutions.  Create, manage, delete user accounts in Active Directory and Exchange.  Support PC, printer, and laptop corporate infrastructure.  Answer phones and monitor the Help Desk email for incoming requests. Triage tickets and assign to appropriate team.  Troubleshoot and resolve hardware and software issues, including password resets and user account creation.  Set up and manage phones in Cisco Unified CM Administration.  Image laptop and desktop computers with SCCM and Configuration Manager Console.  Troubleshoot remote computers using Remote Desktop and Dameware.  Work in virtual environment using VMware Horizon Client.  Workstation setup and configuration in Windows 7 and 10.  Data entry in TSYS.  Provisioning and deployment of desktop systems, and inventory management.  Trained and supervised junior technician in creating user accounts.
+Client:  Genesis Financial Solutions.  Responsible for supporting the PC, printer, and laptop corporate infrastructure.  Answer phones and monitor the Help Desk email for incoming requests. Respond to end user requests for assistance.  Triage tickets and assign to appropriate team.  Maintain corporate PC’s, laptops, and printers.  Troubleshoot and resolve hardware and software issues, including password resets and user account creation.  Create, manage, delete user accounts in Active Directory and Exchange.  Set up and manage phones in Cisco Unified CM Administration.  Image laptop and desktop computers with SCCM and Configuration Manager Console.  Troubleshoot remote computers using Remote Desktop.  Work in virtual environment using VMware Horizon Client.  Workstation setup and configuration in Windows 7 and 10.  Data entry in TSYS.  Provisioning and deployment of desktop systems, and inventory management.  Trained and supervised junior technician in creating user accounts.
 
 Service Desk
 Tek Systems
@@ -50,7 +57,7 @@ Scan Operator
 Office Team
 8/2016 - 3/2017
 Portland, OR
-Client:  Cascadia Behavioral Health.  Scanned client records from archive files to digital database in a behavioral health clinic.  Edited and optimized document images in Panasonic imaging system; alphanumeric data entry.  Maintained security and confidentiality of client records.
+Client:  Cascadia Behavioral Health.  Scanned client records from archive files to digital database.  Edited and optimized document images in Panasonic imaging system; alphanumeric data entry.  Maintained security and confidentiality of client records.
 
 Desktop Support
 Go2IT Group
@@ -99,4 +106,5 @@ Netview
 3/2009 - 5/2009
 San Francisco, CA
 Client:  Marriott.  Upgraded computer system. Tasks included coordinating with technical analyst and hotel staff, logging in to server, making system backup tape, configuring system for migration install, and verifying proper system operation with hotel staff.
+
 
