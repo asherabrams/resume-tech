@@ -27,7 +27,7 @@ Help Desk
 Qorvo
 2/2019 – present
 Hillsboro, Oregon
-Provided support by responding to telephone calls, emails, web tickets, online chat requests, and walk-ups.  Troubleshooting and resolution of user reported hardware/software problems.  Identified and documented persistent problems.  Documented issue resolutions for future reference.  ServiceNow ticketing; remote desktop via SCCM, Skype, MS Remote Desktop.  Troubleshooting VPN connectivity in GlobalProtect.  Support for Office 365 desktop apps and and OWA.  Support for mobile devices (Android, iOS) and MaaS 360.  
+Provided user support in a technology company, providing tier 1 support by phone and email, and handling assigned service catalog tasks, documenting all tickets in ServiceNow.  Troubleshooting for network connectivity, login / browser issues, Windows configuration issues, VPN access, MS Office functionality, access to engineering applications.  User support for MS Office desktop applications and Outlook Web App (OWA).  Support for OneDrive.  Active Directory account maintenance, group membership; created / modified groups in AD and MS Exchange.  Remote desktop support via SCCM; used AD to manage computers and create local administrator rights.  Provided mobile device support (Android and iOS) including setup, configuration, account management, and MaaS360 management.  Created and managed Cisco desk phone accounts in CUCM.  Documented network, server, fab computer, and engineering systems issues, and routed to appropriate teams.  
 
 Help Desk Technician
 EdgeLink
