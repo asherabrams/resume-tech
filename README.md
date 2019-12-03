@@ -1,9 +1,8 @@
 # resume-tech
-
 ASHER ABRAMS
 asher813@aol.com
-415-806-5407
-http://www.linkedin.com/in/asher813
+https://www.linkedin.com/in/asherabrams/
+
 
 TECHNICAL CERTIFICATIONS AND SKILLS
 
@@ -11,11 +10,11 @@ TECHNICAL CERTIFICATIONS AND SKILLS
 •	Active Directory
 •	Microsoft Exchange
 •	ITSM software:  ServiceNow, HP Service Manager, Cherwell, Track-It
-•	IDEs:  Visual Studio, Android Studio
 •	Hardware service and replacement
 
 EDUCATION
 
+•	Computer Information Systems program at Portland Community College (enrolled).
 •	Microelectronic Theory and Applications, UC Berkeley Extension (online).
 •	Cryptography, Stanford University / Coursera (online).
 •	Undergraduate courses including C/C++, Calculus, Physics.
@@ -25,13 +24,13 @@ PROFESSIONAL EXPERIENCE
 
 Help Desk
 Qorvo
-2/2019 – present
+1/2019 – 12/2019
 Hillsboro, Oregon
-Provided user support in a technology company, providing tier 1 support by phone and email, and handling assigned service catalog tasks, documenting all tickets in ServiceNow.  Troubleshooting for network connectivity, login / browser issues, Windows configuration issues, VPN access, MS Office functionality, access to engineering applications.  User support for MS Office desktop applications and Outlook Web App (OWA).  Support for OneDrive.  Active Directory account maintenance, group membership; created / modified groups in AD and MS Exchange.  Remote desktop support via SCCM; used AD to manage computers and create local administrator rights.  Provided mobile device support (Android and iOS) including setup, configuration, account management, and MaaS360 management.  Created and managed Cisco desk phone accounts in CUCM.  Documented network, server, fab computer, and engineering systems issues, and routed to appropriate teams.  
+Provided user support in a technology company, providing tier 1 support by phone and email, and handling assigned service catalog tasks, documenting all tickets in ServiceNow.  Troubleshooting for network connectivity, login / browser issues, Windows configuration issues, VPN access, MS Office functionality, access to engineering applications.  User support for MS Office desktop applications and Outlook Web App (OWA).  Support for OneDrive.  Active Directory account maintenance, group membership; created / modified groups in AD and MS Exchange.  Remote desktop support via SCCM; used AD to manage computers and create local administrator rights.  Provided mobile device support (Android and iOS) including setup, configuration, account management, and MaaS360 management.  Created and managed Cisco desk phone accounts in CUCM.  Documented network, server, fab computer, and engineering systems issues, and routed to appropriate teams.
 
 Help Desk Technician
 EdgeLink
-7/2018 – 2/2019
+7/2018 – 12/2018
 Beaverton, Oregon
 Client:  Genesis Financial Solutions.  Responsible for supporting the PC, printer, and laptop corporate infrastructure.  Answer phones and monitor the Help Desk email for incoming requests. Respond to end user requests for assistance.  Triage tickets and assign to appropriate team.  Maintain corporate PC’s, laptops, and printers.  Troubleshoot and resolve hardware and software issues, including password resets and user account creation.  Create, manage, delete user accounts in Active Directory and Exchange.  Set up and manage phones in Cisco Unified CM Administration.  Image laptop and desktop computers with SCCM and Configuration Manager Console.  Troubleshoot remote computers using Remote Desktop.  Work in virtual environment using VMware Horizon Client.  Workstation setup and configuration in Windows 7 and 10.  Data entry in TSYS.  Provisioning and deployment of desktop systems, and inventory management.  Trained and supervised junior technician in creating user accounts.
 
@@ -94,17 +93,4 @@ Insight Global
 1/2012 - 3/2012
 San Francisco, CA
 Client:  SalesForce.  Project manager for a data migration. Scheduled over 200 users with 5 techs in 3 locations in eastern Canada.  Duties included heavy use of Microsoft Outlook and Excel, and extensive written communication via email and Skype messaging. Responded to unforeseen events such as inclement weather, personnel changes, etc. Adapted scheduling / tracking system to meet changing needs. This position required a high degree of initiative, communications, and problem-solving skills.
-
-Field Service Technician
-CompuCom
-6/2009 - 9/2009
-San Francisco, CA
-Performed PC migration on over 20 workstations, disconnecting and reconnecting computer units, monitors, and peripherals. Job included desktops, laptop docks, and Macintosh computers.
-
-Field Service Technician
-Netview
-3/2009 - 5/2009
-San Francisco, CA
-Client:  Marriott.  Upgraded computer system. Tasks included coordinating with technical analyst and hotel staff, logging in to server, making system backup tape, configuring system for migration install, and verifying proper system operation with hotel staff.
-
 
